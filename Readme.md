@@ -8,7 +8,8 @@
 
 ## 1. Create Wallet Features
 
-- ### [User can fill up their credentials and create wallet which generates a unique wallet ID.](https://user-images.githubusercontent.com/67522406/123187564-0baead00-d4b8-11eb-94c8-9d4cce6f294b.png)
+- ### [User can fill up their credentials and create wallet which generates a unique wallet ID.](https://github.com/adarshRsinha/RapydPay/assets/93790691/d3b4f81a-3a55-412d-a10e-e6d7d211bae3)
+
 
 - ### [All the Wallet Details with the unique wallet ID shows up in the wallet Section.](https://user-images.githubusercontent.com/67522406/123187556-07828f80-d4b8-11eb-88e4-0dc331efa43d.png)
 
